@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[61]:
-
-
 import requests
 from bs4 import BeautifulSoup
 import urllib.request
